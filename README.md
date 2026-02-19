@@ -1,6 +1,6 @@
 # Todo Application - Hackathon Project
 
-**Evolution of Todo**: Multi-phase hackathon project building from console app to AI-powered web application
+**Evolution of Todo**: Multi-phase hackathon project building from console app to AI-powered web application.
 
 ## Current Status
 
